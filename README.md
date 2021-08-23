@@ -1,5 +1,5 @@
 # MalMiningDetector
-This is the source code for the paper "[Malicious mining code detection based on ensemble learning in cloud computing environment](https://doi.org/10.1016/j.simpat.2021.102391)".
+This is the source code for the paper "[Malicious mining code detection based on ensemble learning in cloud computing environment](https://authors.elsevier.com/c/1ddLb,ZhUEWLaG)".
 
 There are three scripts as following:
 
