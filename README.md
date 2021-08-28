@@ -14,7 +14,7 @@ There are three scripts as following:
 
 ## Citation
 
-If you use this data in a publication please cite the following paper:
+If you use the scripts for your research please cite the following paper:
 
  Shudong Li, Simulation Modelling Practice and Theory, https://doi.org/10.1016/j.simpat.2021.102391
  
