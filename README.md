@@ -1,5 +1,5 @@
 # MalMiningDetector
-This is the source code for the paper "[Malicious mining code detection based on ensemble learning in cloud computing environment](https://authors.elsevier.com/c/1ddLb,ZhUEWLaG)".
+This is the source code for the paper "[Malicious mining code detection based on ensemble learning in cloud computing environment](https://www.sciencedirect.com/science/article/pii/S1569190X21000976)".
 
 ## Scripts
 
@@ -16,7 +16,19 @@ There are three scripts as following:
 
 If you use the scripts for your research please cite the following paper:
 
- Shudong Li, Simulation Modelling Practice and Theory, https://doi.org/10.1016/j.simpat.2021.102391
+ ```
+Shudong Li, Yuan Li, Weihong Han, Xiaojiang Du, Mohsen Guizani, Zhihong Tian,
+Malicious mining code detection based on ensemble learning in cloud computing environment,
+Simulation Modelling Practice and Theory,
+Volume 113,
+2021,
+102391,
+ISSN 1569-190X,
+https://doi.org/10.1016/j.simpat.2021.102391.
+(https://www.sciencedirect.com/science/article/pii/S1569190X21000976)
+Abstract: Hackers increasingly tend to abuse and nefariously use cloud services by injecting malicious mining code. This malicious code can be spread through infrastructures in the cloud platforms and pose a great threat to users and enterprises. In this study, a method is proposed for detecting malicious mining code in the cloud platforms, which constructs a detection model by fusing the Bagging and Boosting algorithms. By randomly extracting samples and letting models vote together to decide, the variance of model detection can be reduced obviously. Compared with traditional classifiers, the proposed method can obtain higher accuracy and better robustness. The experimental results show that, for the given dataset, the values of AUC and F1-score can reach 0.992 and 0.987 respectively, and the standard deviation of AUC values under different data inputs is only 0.0009.
+Keywords: Malicious mining code; Mining virus; Cloud computing; Static analysis; Ensemble learning
+ ```
  
  ```bib
  @article{LI2021102391,
